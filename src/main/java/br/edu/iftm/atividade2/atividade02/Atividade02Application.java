@@ -1,4 +1,4 @@
-package br.edu.iftm.atividade2.atividade02.Application.java;
+package br.edu.iftm.atividade2.atividade02;
 
 
 import org.springframework.boot.SpringApplication;
